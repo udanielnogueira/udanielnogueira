@@ -43,7 +43,7 @@
 ### Player
   <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" /> 
   
-![Snake animation](https://github.com/udanielnogueira/udanielnogueir/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/udanielnogueira/udanielnogueira/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 **udanielnogueira/udanielnogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
