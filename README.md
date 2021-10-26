@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> printf("Hello world!\n"); 
 
-<div><a href="https://github.com/udanielnogueira"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=7&theme=algolia"/></div>
+<div><a href="https://github.com/udanielnogueira"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=7&theme=algolia"/></div>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
