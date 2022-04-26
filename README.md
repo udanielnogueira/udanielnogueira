@@ -1,5 +1,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> printf("Hello world!\n"); 
 
+<br>
+
 <!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/udanielnogueira/udanielnogueira/main/coding.gif"/>
@@ -14,7 +16,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
@@ -48,7 +49,7 @@
   <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" /> 
   
 ![Snake animation](https://github.com/udanielnogueira/udanielnogueira/blob/output/github-contribution-grid-snake.svg)
-  
+
 <!--
 **udanielnogueira/udanielnogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
