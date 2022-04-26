@@ -1,7 +1,5 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> printf("Hello world!\n"); 
 
-***
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/udanielnogueira/udanielnogueira/main/coding.gif"/>
 </div>
@@ -15,6 +13,8 @@
 </div>
   
 <br>
+
+***
   
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
