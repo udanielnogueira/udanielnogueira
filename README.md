@@ -1,8 +1,10 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> printf("Hello world!\n"); 
 
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/udanielnogueira/udanielnogueira/main/coding.gif"/>
 </div>
+-->
 
 <br>
 
