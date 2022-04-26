@@ -4,9 +4,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/udanielnogueira/udanielnogueira/main/coding.gif"/>
 </div>
--->
 
 <br>
+-->
 
 <div align="center">
   <a href="https://github.com/udanielnogueira">
