@@ -25,19 +25,19 @@
 ### Languages
 
 ![python 3](https://img.shields.io/badge/-Python-000000?style=plastic&logo=python&logoColor=ffffff)
-![html 5](https://img.shields.io/badge/-HTML%205-28003d?style=plastic&logo=html5&logoColor=ffffff)
-![css 3](https://img.shields.io/badge/-CSS%203-28003d?style=plastic&logo=css3&logoColor=ffffff)
-![javascript](https://img.shields.io/badge/-JavaScript-28003d?style=plastic&logo=javascript&logoColor=ffffff)
+![html 5](https://img.shields.io/badge/-HTML%205-000000?style=plastic&logo=html5&logoColor=ffffff)
+![css 3](https://img.shields.io/badge/-CSS%203-000000?style=plastic&logo=css3&logoColor=ffffff)
+![javascript](https://img.shields.io/badge/-JavaScript-000000?style=plastic&logo=javascript&logoColor=ffffff)
 
 ### Tools
 
-![visual studio code](https://img.shields.io/badge/-Visual%20Studio%20Code-28003d?style=plastic&logo=visualstudiocode&logoColor=ffffff)
-![jupyter notebook](https://img.shields.io/badge/-Jupyter%20Notebook-28003d?style=plastic&logo=jupyter&logoColor=ffffff)
+![visual studio code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=plastic&logo=visualstudiocode&logoColor=ffffff)
+![jupyter notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=plastic&logo=jupyter&logoColor=ffffff)
 
 ### DevOps
 
 ![git](https://img.shields.io/badge/-Git-000000?style=plastic&logo=git&logoColor=ffffff)
-![github](https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github&logoColor=ffffff)
+![github](https://img.shields.io/badge/-GitHub-000000?style=plastic&logo=github&logoColor=ffffff)
 
 
 <!--
