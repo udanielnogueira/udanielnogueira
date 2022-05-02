@@ -41,7 +41,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50"/>
 -->
 
-### Stats
+### How I'm going on
 
 <div align="center">
   <a href="https://github.com/udanielnogueira">
