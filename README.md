@@ -18,9 +18,9 @@
 
 ### About me
 
-- Professor de Tecnologia
-- Graduando de Desenvolvimento
-- Me aprimorando em Web e Big Data
+- Technology Teacher
+- Majoring in Systems Development
+- Learning Web Development an Big Data
 
 ### Linguagens
 
