@@ -36,7 +36,7 @@
 
 ### DevOps
 
-![git](https://img.shields.io/badge/-Git-333333?style=plastic&logo=git&logoColor=ffffff)
+![git](https://img.shields.io/badge/-Git-000000?style=plastic&logo=git&logoColor=ffffff)
 ![github](https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github&logoColor=ffffff)
 
 
