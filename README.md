@@ -1,6 +1,6 @@
-![profile views](https://komarev.com/ghpvc/?username=udanielnogueira&color=006bed)
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> printf("Hello world!\n"); 
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> ![profile views](https://komarev.com/ghpvc/?username=udanielnogueira&color=006bed)
 
 <!--
 <div align="center">
@@ -16,13 +16,13 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## About me
+### About me
 
 - Technology Teacher
 - Majoring in Systems Development
 - Learning Web Development and Big Data
 
-## Languages and tools
+### Languages and tools
 
 ![python 3](https://img.shields.io/badge/-Python-000000?style=plastic&logo=python&logoColor=ffffff)
 ![html 5](https://img.shields.io/badge/-HTML%205-000000?style=plastic&logo=html5&logoColor=ffffff)
