@@ -2,7 +2,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> 
 -->
 
-### <img src="dragon-89.gif" width="50px"> printf("Hello world!\n"); 
+### <img src="dragon-89.gif" width="50px"> It's me, Daniel. 
 
 <!--
 <div align="center">
