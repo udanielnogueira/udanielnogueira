@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/udanielnogueira">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ### About me
@@ -31,13 +31,13 @@
 
 ### Tools
 
-![visual studio code](https://img.shields.io/badge/-Visual%20Studio%20Code-28003d?style=flat&logo=visualstudiocode&logoColor=ffffff)
-![jupyter notebook](https://img.shields.io/badge/-Jupyter%20Notebook-28003d?style=flat&logo=jupyter&logoColor=ffffff)
+![visual studio code](https://img.shields.io/badge/-Visual%20Studio%20Code-28003d?style=plastic&logo=visualstudiocode&logoColor=ffffff)
+![jupyter notebook](https://img.shields.io/badge/-Jupyter%20Notebook-28003d?style=plastic&logo=jupyter&logoColor=ffffff)
 
 ### DevOps
 
-![git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![github](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![git](https://img.shields.io/badge/-Git-333333?style=plastic&logo=git&logoColor=ffffff)
+![github](https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github&logoColor=ffffff)
 
 
 <!--
