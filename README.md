@@ -18,13 +18,11 @@
 
 ### About me
 
-- Professor de tecnologia
-- Graduando em Desenvolvimento
-- Aprendendo Web e Ciência de Dados
+- Professor de Tecnologia
+- Graduando de Desenvolvimento
+- Me aprimorando em Web e Big Data
 
 ### Linguagens
-
-
 
 ![Snake animation](https://github.com/udanielnogueira/udanielnogueira/blob/output/github-contribution-grid-snake.svg)
 
