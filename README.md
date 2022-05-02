@@ -12,17 +12,17 @@
 
 <div align="center">
   <a href="https://github.com/udanielnogueira">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### About me
+## About me
 
 - Technology Teacher
 - Majoring in Systems Development
 - Learning Web Development and Big Data
 
-### Languages and tools
+## Languages and tools
 
 ![python 3](https://img.shields.io/badge/-Python-000000?style=plastic&logo=python&logoColor=ffffff)
 ![html 5](https://img.shields.io/badge/-HTML%205-000000?style=plastic&logo=html5&logoColor=ffffff)
