@@ -1,6 +1,4 @@
-
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> ![profile views](https://komarev.com/ghpvc/?username=udanielnogueira&color=006bed)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> ![profile views](https://komarev.com/ghpvc/?username=udanielnogueira&color=006bed)
 
 <!--
 <div align="center">
@@ -32,6 +30,12 @@
 ![jupyter notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=plastic&logo=jupyter&logoColor=ffffff)
 ![github](https://img.shields.io/badge/-GitHub-000000?style=plastic&logo=github&logoColor=ffffff)
 ![git](https://img.shields.io/badge/-Git-000000?style=plastic&logo=git&logoColor=ffffff)
+
+### Contact
+
+<a href="https://www.linkedin.com/in/udanielnogueira" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/udanielnogueira" />
+</a>
 
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/>
