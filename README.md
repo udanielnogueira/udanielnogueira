@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/udanielnogueira">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 ### About me
@@ -36,9 +36,8 @@
 
 ### DevOps
 
-![git](https://img.shields.io/badge/-Git-000000?style=plastic&logo=git&logoColor=ffffff)
 ![github](https://img.shields.io/badge/-GitHub-000000?style=plastic&logo=github&logoColor=ffffff)
-
+![git](https://img.shields.io/badge/-Git-000000?style=plastic&logo=git&logoColor=ffffff)
 
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50"/>
