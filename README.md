@@ -24,7 +24,7 @@
 
 ### Languages
 
-![python 3](https://img.shields.io/badge/-Python-28003d?style=flat&logo=python&logoColor=ffffff)
+![python 3](https://img.shields.io/badge/-Python-28003d?style=plastic&logo=python&logoColor=ffffff)
 ![html 5](https://img.shields.io/badge/-HTML%205-28003d?style=flat&logo=html5&logoColor=ffffff)
 ![css 3](https://img.shields.io/badge/-CSS%203-28003d?style=flat&logo=css3&logoColor=ffffff)
 ![javascript](https://img.shields.io/badge/-JavaScript-28003d?style=flat&logo=javascript&logoColor=ffffff)
