@@ -2,7 +2,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> 
 -->
 
-### <img src="dragon-89.gif" width="50px"> It's me, Daniel. 
+### <img src="dragon-89.gif" width="50px"> printf("Hello world!\n"); 
 
 <!--
 <div align="center">
@@ -14,24 +14,24 @@
 
 <div align="center">
   <a href="https://github.com/udanielnogueira">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### about me
+### About me
 
 - Technology Teacher
 - Majoring in Systems Development
 - Learning Web Development and Big Data
 
-### languages
+### Languages
 
+![PYTHON 3](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![HTML 5](https://img.shields.io/badge/-HTML%205-333333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS%203-333333?style=flat&logo=css3&logoColor=1572B6)
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![PYTHON 3](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-### tools
+### Tools
 
 ![VISUAL STUDIO CODE](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=1572B6)
 ![JUPYTER NOTEBOOK](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
