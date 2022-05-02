@@ -20,7 +20,7 @@
 
 - Technology Teacher
 - Majoring in Systems Development
-- Learning Web Development an Big Data
+- Learning Web Development and Big Data
 
 ### Linguagens
 
