@@ -31,8 +31,8 @@
 
 ### tools
 
-![HTML5](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode)
-![HTML5](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyternotebook)
+![HTML5](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 
 
 <!--
