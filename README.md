@@ -31,7 +31,7 @@
 ![github](https://img.shields.io/badge/-GitHub-000000?style=plastic&logo=github&logoColor=ffffff)
 ![git](https://img.shields.io/badge/-Git-000000?style=plastic&logo=git&logoColor=ffffff)
 
-### Contact
+### You can reach me at
 
 <a href="https://www.linkedin.com/in/udanielnogueira" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/udanielnogueira" />
