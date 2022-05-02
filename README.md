@@ -31,7 +31,7 @@
 
 ### tools
 
-![HTML5](https://img.shields.io/badge/-HTML%205-333333?style=flat&logo=visualstudio)
+![HTML5](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode)
 
 
 <!--
