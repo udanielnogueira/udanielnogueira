@@ -14,8 +14,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-<br>
-
 ### about me
 
 - Technology Teacher
