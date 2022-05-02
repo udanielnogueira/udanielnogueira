@@ -25,9 +25,9 @@
 ### Languages
 
 ![python 3](https://img.shields.io/badge/-Python-28003d?style=plastic&logo=python&logoColor=ffffff)
-![html 5](https://img.shields.io/badge/-HTML%205-28003d?style=28003d&logo=html5&logoColor=ffffff)
-![css 3](https://img.shields.io/badge/-CSS%203-28003d?style=28003d&logo=css3&logoColor=ffffff)
-![javascript](https://img.shields.io/badge/-JavaScript-28003d?style=28003d&logo=javascript&logoColor=ffffff)
+![html 5](https://img.shields.io/badge/-HTML%205-28003d?style=plastic&logo=html5&logoColor=ffffff)
+![css 3](https://img.shields.io/badge/-CSS%203-28003d?style=plastic&logo=css3&logoColor=ffffff)
+![javascript](https://img.shields.io/badge/-JavaScript-28003d?style=plastic&logo=javascript&logoColor=ffffff)
 
 ### Tools
 
