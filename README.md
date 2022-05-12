@@ -16,6 +16,9 @@
 
 ### Languages and tools
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+
+<!--
 ![python 3](https://img.shields.io/badge/-Python-000000?style=plastic&logo=python&logoColor=ffffff)
 ![html 5](https://img.shields.io/badge/-HTML%205-000000?style=plastic&logo=html5&logoColor=ffffff)
 ![css 3](https://img.shields.io/badge/-CSS%203-000000?style=plastic&logo=css3&logoColor=ffffff)
@@ -24,6 +27,7 @@
 ![jupyter notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=plastic&logo=jupyter&logoColor=ffffff)
 ![github](https://img.shields.io/badge/-GitHub-000000?style=plastic&logo=github&logoColor=ffffff)
 ![git](https://img.shields.io/badge/-Git-000000?style=plastic&logo=git&logoColor=ffffff)
+-->
 
 ### You can reach me at
 
