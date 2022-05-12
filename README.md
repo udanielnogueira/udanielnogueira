@@ -31,7 +31,7 @@
 </div>
 
 <br>
-Languages I use more: Python, HTML 5, CSS 3 and Javascript.
+Languages I use more: Python, HTML 5, CSS 3 and JavaScript.
 
 <!--
 ![python 3](https://img.shields.io/badge/-Python-000000?style=plastic&logo=python&logoColor=ffffff)
