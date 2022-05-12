@@ -47,7 +47,7 @@ Languages I use more: Python, HTML 5, CSS 3 and JavaScript.
 ### You can reach me at
 
 <a href="https://www.linkedin.com/in/udanielnogueira" target="_blank" alt="Linkedin" >
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/udanielnogueira" />
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/udanielnogueira" />
 </a>
 
 ### How I'm going on...
