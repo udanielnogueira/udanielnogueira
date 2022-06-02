@@ -1,4 +1,4 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px"> ![profile views](https://komarev.com/ghpvc/?username=udanielnogueira&color=006bed)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50"> ![profile views](https://komarev.com/ghpvc/?username=udanielnogueira&color=006bed)
 
 <!--
 <div align="center">
