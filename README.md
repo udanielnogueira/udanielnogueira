@@ -4,7 +4,7 @@
 
 - Technology Teacher
 - Graduated in Systems Development
-- Learning Web Development and UX/UI Design
+- Advancing in Web Development and UX/UI Design
 
 ### Languages and tools
 
