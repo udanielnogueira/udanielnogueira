@@ -19,8 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> 
 </div>
 
-<br>
-
 ### You can reach me at
 
 <a href="https://www.linkedin.com/in/udanielnogueira" target="_blank" alt="Linkedin" >
