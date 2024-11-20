@@ -34,8 +34,8 @@
 
 ## Repositories
 
-<table style="text-align: center; width: 100%">
-  <tr><th>JavaScript Projects</th></tr>
+<table style="text-align: center; width: 100%; margin:auto">
+  <tr><th colspan="2">JavaScript Projects</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/token-elements">Token+ Elements</a></td>
     <td><a href="https://github.com/udanielnogueira/legends-view">Legends View</a></td>
