@@ -1,13 +1,13 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50"> ![profile views](https://komarev.com/ghpvc/?username=udanielnogueira&color=006bed)
 
-## Sobre mim
+## About me
 
 - Front-End Developer
-- Foco em Dev Web e UX/UI
-- Graduado em Análise e Dev de Sistemas
-- Pós-graduado em Dev Full-Stack e Neuroeducação
+- Graduate in Systems Development
+- Postgraduate in Full-Stack Development
+- Advancing in Web Deleopment and UX/UI Design
 
-## Linguagens e ferramentas
+## Languages and Tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" title="C"/>
@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> 
 </div>
 
-## Contato
+## Contact
 
 <a href="https://www.linkedin.com/in/udanielnogueira" target="_blank" alt="Linkedin" >
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/udanielnogueira" />
@@ -33,10 +33,10 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
 </div>
 
-## Repositórios
+## Repositories
 
 <table>
-  <tr><th colspan="2">Projetos Front-End • JavaScript</th></tr>
+  <tr><th colspan="2">Front-End Projects • JavaScript</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/movie-hall">Movie Hall</a></td>
     <td><a href="https://github.com/udanielnogueira/doc-generator">Contratify</a></td>
@@ -50,7 +50,7 @@
 <br>
 
 <table>
-  <tr><th colspan="2">Componentes HTML/CSS</th></tr>
+  <tr><th colspan="2">HTML/CSS Components</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/qr-code-component">QR Code Component</a></td>
     <td><a href="https://github.com/udanielnogueira/nft-preview-card-component">NFT Preview Card Component</a></td>
@@ -64,7 +64,7 @@
 <br>
 
 <table>
-  <tr><th colspan="2">Eventos</th></tr>
+  <tr><th colspan="2">Events</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/imersao-dev-google-gemini">Imersão Dev Alura com Google Gemini</a></td>
     <td><a href="https://github.com/udanielnogueira/nlw-journey">NLW Journey</a></td>
@@ -78,7 +78,7 @@
 <br>
 
 <table>
-  <tr><th colspan="2">Linguagem Python</th></tr>
+  <tr><th colspan="2">Python</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/python-zero">Intro ao Python</a></td>
     <td><a href="https://github.com/udanielnogueira/impar-par-python">Jogo Ímpar ou Par em Python</a></td>
@@ -100,7 +100,7 @@
 <br>
 
 <table>
-  <tr><th colspan="2">Linguagem Java</th></tr>
+  <tr><th colspan="2">Java</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/java-zero">Intro ao Java</a></td>
   </tr>
@@ -109,7 +109,7 @@
 <br>
 
 <table>
-  <tr><th colspan="2">Bando de Dados</th></tr>
+  <tr><th colspan="2">Database</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/mysql-guanabara">Treinamento MySQL</a></td>
   </tr>
@@ -118,7 +118,7 @@
 <br>
 
 <table>
-  <tr><th colspan="2">Linguagem C</th></tr>
+  <tr><th colspan="2">C</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/c-zero">Intro ao C</a></td>
     <td><a href="https://github.com/udanielnogueira/data-structure-zero">Estrutura de Dados em C</a></td>
