@@ -35,7 +35,7 @@
 ## Repositories
 
 <table>
-  <tr><th colspan="2">Projetos Front-End | JavaScript Stack</th></tr>
+  <tr><th colspan="2">Projetos Front-End [JavaScript]</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/movie-hall">Movie Hall</a></td>
     <td><a href="https://github.com/udanielnogueira/doc-generator">Contratify</a></td>
@@ -49,7 +49,7 @@
 <br>
 
 <table>
-  <tr><th colspan="2">HTML/CSS Components</th></tr>
+  <tr><th colspan="2">Componentes HTML/CSS</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/qr-code-component">QR Code Component</a></td>
     <td><a href="https://github.com/udanielnogueira/nft-preview-card-component">NFT Preview Card Component</a></td>
@@ -106,7 +106,7 @@
 </table>
 
 <table>
-  <tr><th colspan="2">Linguagem C</th></tr>
+  <tr><th colspan="2">C</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/c-zero">Intro ao C</a></td>
     <td><a href="https://github.com/udanielnogueira/data-structure-zero">Estrutura de Dados em C</a></td>
