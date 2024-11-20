@@ -49,7 +49,7 @@
 <br>
 
 <table style="text-align: center; width: 100%">
-  <tr><th>HTML/CSS Components</th></tr>
+  <tr><th colspan="2">HTML/CSS Components</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/qr-code-component">QR Code Component</a></td>
     <td><a href="https://github.com/udanielnogueira/nft-preview-card-component">NFT Preview Card Component</a></td>
@@ -63,7 +63,7 @@
 <br>
 
 <table style="text-align: center; width: 100%">
-  <tr><th>Python</th></tr>
+  <tr><th colspan="2">Python</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/python-zero">Intro ao Python</a></td>
     <td><a href="https://github.com/udanielnogueira/impar-par-python">Jogo Ímpar ou Par em Python</a></td>
