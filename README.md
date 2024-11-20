@@ -112,3 +112,10 @@
     <td><a href="https://github.com/udanielnogueira/data-structure-zero">Estrutura de Dados em C</a></td>
   </tr>
 </table>
+
+<table>
+  <tr><th colspan="2">Bando de Dados</th></tr>
+  <tr>
+    <td><a href="https://github.com/udanielnogueira/mysql-guanabara">Treinamento MySQL</a></td>
+  </tr>
+</table>
