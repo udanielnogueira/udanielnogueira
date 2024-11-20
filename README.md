@@ -36,7 +36,7 @@
 ## My Repositories
 
 <table>
-  <tr><th colspan="2">Front-End Projects • JavaScript</th></tr>
+  <tr><th colspan="2">💻 Front-End Projects [🟡JavaScript]</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/movie-hall">Movie Hall</a></td>
     <td><a href="https://github.com/udanielnogueira/doc-generator">Contratify</a></td>
@@ -48,7 +48,7 @@
 </table>
 
 <table>
-  <tr><th colspan="2">HTML/CSS Components</th></tr>
+  <tr><th colspan="2">🧩 HTML/CSS Components</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/qr-code-component">QR Code Component</a></td>
     <td><a href="https://github.com/udanielnogueira/nft-preview-card-component">NFT Preview Card Component</a></td>
@@ -60,7 +60,7 @@
 </table>
 
 <table>
-  <tr><th colspan="2">Events</th></tr>
+  <tr><th colspan="2">🎟️ Events</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/imersao-dev-google-gemini">Imersão Dev Alura com Google Gemini</a></td>
     <td><a href="https://github.com/udanielnogueira/nlw-journey">NLW Journey</a></td>
@@ -72,7 +72,7 @@
 </table>
 
 <table>
-  <tr><th colspan="2">Python</th></tr>
+  <tr><th colspan="2">🐍 Python</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/python-zero">Intro ao Python</a></td>
     <td><a href="https://github.com/udanielnogueira/impar-par-python">Jogo Ímpar ou Par em Python</a></td>
@@ -92,28 +92,28 @@
 </table>
 
 <table>
-  <tr><th colspan="2">Java</th></tr>
+  <tr><th colspan="2">☕ Java</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/java-zero">Intro ao Java</a></td>
   </tr>
 </table>
 
 <table>
-  <tr><th colspan="2">Database</th></tr>
+  <tr><th colspan="2">🎲 Database</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/mysql-guanabara">Treinamento MySQL</a></td>
   </tr>
 </table>
 
 <table>
-  <tr><th colspan="2">Automations using Python</th></tr>
+  <tr><th colspan="2">❇️ Automations using Python</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/msg-automatizada">Automação de Mensagens</a></td>
   </tr>
 </table>
 
 <table>
-  <tr><th colspan="2">C</th></tr>
+  <tr><th colspan="2">🖥️ C</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/c-zero">Intro ao C</a></td>
     <td><a href="https://github.com/udanielnogueira/data-structure-zero">Estrutura de Dados em C</a></td>
@@ -121,7 +121,7 @@
 </table>
 
 <table>
-  <tr><th colspan="2">Guides</th></tr>
+  <tr><th colspan="2">📚 Guides</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/git-tutorial">Tutorial de Git</a></td>
     <td><a href="https://github.com/udanielnogueira/github-profile">Melhorando o README</a></td>
