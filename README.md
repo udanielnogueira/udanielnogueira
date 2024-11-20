@@ -63,7 +63,7 @@
 <br>
 
 <table>
-  <tr><th colspan="2">Python</th></tr>
+  <tr><th colspan="2">Linguagem Python</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/python-zero">Intro ao Python</a></td>
     <td><a href="https://github.com/udanielnogueira/impar-par-python">Jogo Ímpar ou Par em Python</a></td>
@@ -99,14 +99,14 @@
 <br>
 
 <table>
-  <tr><th colspan="2">Java</th></tr>
+  <tr><th colspan="2">Linguagem Java</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/java-zero">Intro ao Java</a></td>
   </tr>
 </table>
 
 <table>
-  <tr><th colspan="2">C</th></tr>
+  <tr><th colspan="2">Linguagem C</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/c-zero">Intro ao C</a></td>
     <td><a href="https://github.com/udanielnogueira/data-structure-zero">Estrutura de Dados em C</a></td>
