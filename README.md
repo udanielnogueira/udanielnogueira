@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/udanielnogueira" />
 </a>
 
-## How I'm going on...
+## Status
 
 <div align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
@@ -85,13 +85,13 @@
 <br>
 
 <table style="text-align: center; width: 100%">
-  <tr><th>Eventos</th></tr>
+  <tr><th colspan="2">Eventos</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/imersao-dev-google-gemini">Imersão Dev Alura com Google Gemini</a></td>
-    <td><a href="https://github.com/udanielnogueira/imersao-backend-google-gemini">Imersão Back-End Alura com Google Gemini</a></td>
+    <td><a href="https://github.com/udanielnogueira/nlw-journey">NLW Journey</a></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/udanielnogueira/imersao-backend-google-gemini">Imersão Back-End Alura com Google Gemini</a></td>
     <td><a href="https://github.com/udanielnogueira/nlw-pocket-javascript">NLW Pocket JavaScript</a></td>
-    <td><a href="https://github.com/udanielnogueira/nlw-journey">NLW Journey</a></td>
   </tr>
 </table>
