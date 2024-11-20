@@ -6,7 +6,7 @@
 - Graduated in Systems Development
 - Advancing in Web Development and UX/UI Design
 
-## Languages and tools
+## Languages & tools
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" title="C"/>
