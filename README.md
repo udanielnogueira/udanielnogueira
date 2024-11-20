@@ -5,7 +5,7 @@
 - Front-End Developer
 - Graduate in Systems Development
 - Postgraduate in Full-Stack Development
-- Advancing in Web Development and UX/UI Design
+- Advancing in Web Development and UX/UI
 
 ## Languages and Tools
 
