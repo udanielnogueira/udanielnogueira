@@ -33,7 +33,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
 </div>
 
-## Repositories
+## My Repositories
 
 <table>
   <tr><th colspan="2">Front-End Projects • JavaScript</th></tr>
