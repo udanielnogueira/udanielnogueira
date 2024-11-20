@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/udanielnogueira" />
 </a>
 
-## GitHub Status
+## GitHub Stats
 
 <div align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=8&theme=dark"/>
