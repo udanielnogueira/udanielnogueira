@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - Front-End Developer
-- Evoluindo em Desenvolvimento Web e UX/UI Design
-- Graduado em Análise e Desenvolvimento de Sistemas
-- Pós-graduado em Desenvolvimento Full-Stack e pós-graduado em Neuroeducação
+- Foco em Dev Web e UX/UI
+- Graduado em Análise e Dev de Sistemas
+- Pós-graduado em Dev Full-Stack e Neuroeducação
 
 ## Linguagens e ferramentas
 
