@@ -35,7 +35,7 @@
 ## Repositories
 
 <table>
-  <tr><th colspan="2">Projetos Front-End usnado JavaScript</th></tr>
+  <tr><th colspan="2">Projetos Front-End • JavaScript</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/movie-hall">Movie Hall</a></td>
     <td><a href="https://github.com/udanielnogueira/doc-generator">Contratify</a></td>
