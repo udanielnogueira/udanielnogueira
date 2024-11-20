@@ -1,12 +1,13 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50"> ![profile views](https://komarev.com/ghpvc/?username=udanielnogueira&color=006bed)
 
-## About me
+## Sobre mim
 
-- Tech Educator
-- Graduated in Systems Development
-- Advancing in Web Development and UX/UI Design
+- Front-End Developer
+- Evoluindo em Desenvolvimento Web e UX/UI Design
+- Graduado em Análise e Desenvolvimento de Sistemas
+- Pós-graduado em Desenvolvimento Full-Stack e pós-graduado em Neuroeducação
 
-## Languages & tools
+## Linguagens e ferramentas
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" title="C"/>
@@ -19,20 +20,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git"/> 
 </div>
 
-## You can reach me at
+## Contato
 
 <a href="https://www.linkedin.com/in/udanielnogueira" target="_blank" alt="Linkedin" >
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/udanielnogueira" />
 </a>
 
-## Status
+## GitHub Status
 
 <div align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udanielnogueira&layout=compact&langs_count=8&theme=dark"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
 </div>
 
-## Repositories
+## Repositórios
 
 <table>
   <tr><th colspan="2">Projetos Front-End • JavaScript</th></tr>
