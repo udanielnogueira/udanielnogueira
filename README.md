@@ -37,7 +37,7 @@
 <table style="text-align: center; width: 100%;">
   <tr><th colspan="2">JavaScript Projects</th></tr>
   <tr>
-    <td style="text-align: center"><a href="https://github.com/udanielnogueira/token-elements">Token+ Elements</a></td>
+    <td><a href="https://github.com/udanielnogueira/token-elements">Token+ Elements</a></td>
     <td><a href="https://github.com/udanielnogueira/legends-view">Legends View</a></td>
   </tr>
   <tr>
