@@ -34,7 +34,7 @@
 
 ## Repositories
 
-<table style="text-align: center; width: 100%; margin:auto">
+<table style="text-align: center; width: 100%;">
   <tr><th colspan="2">JavaScript Projects</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/token-elements">Token+ Elements</a></td>
