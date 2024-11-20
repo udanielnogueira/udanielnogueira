@@ -2,7 +2,7 @@
 
 ## About me
 
-- Technology Teacher
+- Tech Educator
 - Graduated in Systems Development
 - Advancing in Web Development and UX/UI Design
 
