@@ -34,7 +34,7 @@
 
 ## Repositories
 
-<table style="text-align: center; width: 100%">
+<table>
   <tr><th colspan="2">JavaScript Projects</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/movie-hall">Movie Hall</a></td>
@@ -48,7 +48,7 @@
 
 <br>
 
-<table style="text-align: center; width: 100%">
+<table>
   <tr><th colspan="2">HTML/CSS Components</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/qr-code-component">QR Code Component</a></td>
@@ -62,7 +62,7 @@
 
 <br>
 
-<table style="text-align: center; width: 100%">
+<table>
   <tr><th colspan="2">Python</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/python-zero">Intro ao Python</a></td>
@@ -84,7 +84,7 @@
 
 <br>
 
-<table style="text-align: center; width: 100%">
+<table>
   <tr><th colspan="2">Eventos</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/imersao-dev-google-gemini">Imersão Dev Alura com Google Gemini</a></td>
@@ -93,5 +93,22 @@
   <tr>
     <td><a href="https://github.com/udanielnogueira/imersao-backend-google-gemini">Imersão Back-End Alura com Google Gemini</a></td>
     <td><a href="https://github.com/udanielnogueira/nlw-pocket-javascript">NLW Pocket JavaScript</a></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr><th colspan="2">Java</th></tr>
+  <tr>
+    <td><a href="https://github.com/udanielnogueira/java-zero">Intro ao Java</a></td>
+  </tr>
+</table>
+
+<table>
+  <tr><th colspan="2">Linguagem C</th></tr>
+  <tr>
+    <td><a href="https://github.com/udanielnogueira/c-zero">Intro ao C</a></td>
+    <td><a href="https://github.com/udanielnogueira/data-structure-zero">Estrutura de Dados em C</a></td>
   </tr>
 </table>
