@@ -92,6 +92,14 @@
 </table>
 
 <table>
+  <tr><th colspan="2">Automações em Python</th></tr>
+  <tr>
+    <td><a href="https://github.com/udanielnogueira/msg-automatizada">Automação de Mensagens</a></td>
+    <td></td>
+  </tr>
+</table>
+
+<table>
   <tr><th colspan="2">Java</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/java-zero">Intro ao Java</a></td>
