@@ -5,7 +5,7 @@
 - Front-End Developer
 - Graduate in Systems Development
 - Postgraduate in Full-Stack Development
-- Advancing in Web Deleopment and UX/UI Design
+- Advancing in Web Development and UX/UI Design
 
 ## Languages and Tools
 
@@ -47,8 +47,6 @@
   </tr>
 </table>
 
-<br>
-
 <table>
   <tr><th colspan="2">HTML/CSS Components</th></tr>
   <tr>
@@ -61,8 +59,6 @@
   </tr>
 </table>
 
-<br>
-
 <table>
   <tr><th colspan="2">Events</th></tr>
   <tr>
@@ -74,8 +70,6 @@
     <td><a href="https://github.com/udanielnogueira/nlw-pocket-javascript">NLW Pocket JavaScript</a></td>
   </tr>
 </table>
-
-<br>
 
 <table>
   <tr><th colspan="2">Python</th></tr>
@@ -97,8 +91,6 @@
   </tr>
 </table>
 
-<br>
-
 <table>
   <tr><th colspan="2">Java</th></tr>
   <tr>
@@ -106,16 +98,12 @@
   </tr>
 </table>
 
-<br>
-
 <table>
   <tr><th colspan="2">Database</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/mysql-guanabara">Treinamento MySQL</a></td>
   </tr>
 </table>
-
-<br>
 
 <table>
   <tr><th colspan="2">C</th></tr>
