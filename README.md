@@ -124,7 +124,7 @@
   <tr><th colspan="2">Guides</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/git-tutorial">Tutorial de Git</a></td>
-    <td><a href="https://github.com/udanielnogueira/github-profile">Tutorial de GitHub</a></td>
+    <td><a href="https://github.com/udanielnogueira/github-profile">Melhorando o README</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/markdown-syntax">Tutorial de Markdown</a></td>
