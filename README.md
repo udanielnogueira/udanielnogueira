@@ -63,6 +63,20 @@
 <br>
 
 <table>
+  <tr><th colspan="2">Eventos</th></tr>
+  <tr>
+    <td><a href="https://github.com/udanielnogueira/imersao-dev-google-gemini">Imersão Dev Alura com Google Gemini</a></td>
+    <td><a href="https://github.com/udanielnogueira/nlw-journey">NLW Journey</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/udanielnogueira/imersao-backend-google-gemini">Imersão Back-End Alura com Google Gemini</a></td>
+    <td><a href="https://github.com/udanielnogueira/nlw-pocket-javascript">NLW Pocket JavaScript</a></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
   <tr><th colspan="2">Linguagem Python</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/python-zero">Intro ao Python</a></td>
@@ -85,37 +99,27 @@
 <br>
 
 <table>
-  <tr><th colspan="2">Eventos</th></tr>
-  <tr>
-    <td><a href="https://github.com/udanielnogueira/imersao-dev-google-gemini">Imersão Dev Alura com Google Gemini</a></td>
-    <td><a href="https://github.com/udanielnogueira/nlw-journey">NLW Journey</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/udanielnogueira/imersao-backend-google-gemini">Imersão Back-End Alura com Google Gemini</a></td>
-    <td><a href="https://github.com/udanielnogueira/nlw-pocket-javascript">NLW Pocket JavaScript</a></td>
-  </tr>
-</table>
-
-<br>
-
-<table>
   <tr><th colspan="2">Linguagem Java</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/java-zero">Intro ao Java</a></td>
   </tr>
 </table>
 
-<table>
-  <tr><th colspan="2">Linguagem C</th></tr>
-  <tr>
-    <td><a href="https://github.com/udanielnogueira/c-zero">Intro ao C</a></td>
-    <td><a href="https://github.com/udanielnogueira/data-structure-zero">Estrutura de Dados em C</a></td>
-  </tr>
-</table>
+<br>
 
 <table>
   <tr><th colspan="2">Bando de Dados</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/mysql-guanabara">Treinamento MySQL</a></td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr><th colspan="2">Linguagem C</th></tr>
+  <tr>
+    <td><a href="https://github.com/udanielnogueira/c-zero">Intro ao C</a></td>
+    <td><a href="https://github.com/udanielnogueira/data-structure-zero">Estrutura de Dados em C</a></td>
   </tr>
 </table>
