@@ -51,10 +51,10 @@
   <tr><th colspan="2">🧩 HTML/CSS Components</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/qr-code-component">QR Code Component</a></td>
-    <td><a href="https://github.com/udanielnogueira/nft-preview-card-component">NFT Preview Card Component</a></td>
+    <td><a href="https://github.com/udanielnogueira/product-preview-card-component">Product Preview Card Component</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/udanielnogueira/product-preview-card-component">Product Preview Card Component</a></td>
+    <td><a href="https://github.com/udanielnogueira/nft-preview-card-component">NFT Preview Card Component</a></td>
     <td></td>
   </tr>
 </table>
