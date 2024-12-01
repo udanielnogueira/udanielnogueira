@@ -48,6 +48,13 @@
 </table>
 
 <table>
+  <tr><th colspan="2">💻 Front-End Projects [🎨UX/UI Design]</th></tr>
+  <tr>
+    <td><a href="https://github.com/udanielnogueira/nike-air-jordan">Nike Air Jordan</a></td>
+  </tr>
+</table>
+
+<table>
   <tr><th colspan="2">🧩 HTML/CSS Components</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/qr-code-component">QR Code Component</a></td>
