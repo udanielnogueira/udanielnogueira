@@ -39,10 +39,9 @@
   <tr><th colspan="2">💻 Front-End Projects [🟡JavaScript]</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/movie-hall">Movie Hall</a></td>
-    <td><a href="https://github.com/udanielnogueira/doc-generator">Contratify</a></td>
+    <td><a href="https://github.com/udanielnogueira/token-elements">Token+ Elements</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/udanielnogueira/token-elements">Token+ Elements</a></td>
     <td><a href="https://github.com/udanielnogueira/legends-view">Legends View</a></td>
   </tr>
 </table>
