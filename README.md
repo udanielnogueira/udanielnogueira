@@ -43,6 +43,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/legends-view">Legends View</a></td>
+    <td></td>
   </tr>
 </table>
 
