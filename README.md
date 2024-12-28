@@ -112,7 +112,7 @@
 </table>
 
 <table>
-  <tr><th colspan="2">❇️ Automations using Python</th></tr>
+  <tr><th colspan="2">🤖 Automations using Python</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/msg-automatizada">Automação de Mensagens</a></td>
   </tr>
