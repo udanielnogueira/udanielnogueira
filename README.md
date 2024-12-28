@@ -2,10 +2,9 @@
 
 ## About me
 
-- Front-End Dev
+- Front-End Dev & UI Designer
 - Graduate in Systems Development
 - Postgraduate in Full-Stack Development
-- Advancing in Web Development and UX/UI
 
 ## Languages and Tools
 
