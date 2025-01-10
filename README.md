@@ -35,7 +35,7 @@
 ## My Repositories
 
 <table>
-  <tr><th colspan="2">💻 Front-End Projects [🟡JavaScript]</th></tr>
+  <tr><th colspan="2">💻 Front-End Projects [🟡 Vanilla JS]</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/movie-hall">Movie Hall</a></td>
     <td><a href="https://github.com/udanielnogueira/token-elements">Token+ Elements</a></td>
