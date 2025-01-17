@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python 3"/>
 </div>
 
-## Contact
+## Contact me
 
 <a href="https://www.linkedin.com/in/udanielnogueira" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/udanielnogueira" height="30"/>
@@ -42,7 +42,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=udanielnogueira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
 </div>
 
-## My Repositories
+## Main Repositories
 
 <table>
   <tr><th colspan="2">💻 Front-End Projects [🟡Vanilla JS]</th></tr>
