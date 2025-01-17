@@ -31,8 +31,8 @@
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/udanielnogueira" target="_blank" alt="Linkedin" >
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/udanielnogueira" />
+<a href="https://www.linkedin.com/in/udanielnogueira" target="_blank" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/udanielnogueira" height="30"/>
 </a>
 
 ## GitHub Stats
