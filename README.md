@@ -6,7 +6,7 @@
 - Graduate in Systems Development
 - Postgraduate in Full-Stack Development
 
-## Front-End Stack
+## Front-End stack
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" title="Figma"/>&nbsp;
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50" title="npm"/>
 </div>
 
-## Data Science Stack
+## Data Science stack
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python 3"/>&nbsp;
