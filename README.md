@@ -97,7 +97,6 @@
     <td><a href="https://github.com/udanielnogueira/nlw-journey">NLW Journey</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/udanielnogueira/imersao-backend-google-gemini">Imersão Back-End Alura com Google Gemini</a></td>
     <td><a href="https://github.com/udanielnogueira/nlw-pocket-javascript">NLW Pocket JavaScript</a></td>
   </tr>
 </table>
