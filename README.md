@@ -25,7 +25,7 @@
 
 ## Data Science Stack
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python 3"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60" title="NumPy"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="60" title="matplotlib"/>&nbsp;
