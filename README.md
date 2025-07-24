@@ -94,10 +94,10 @@
   <tr><th colspan="2">🎟️ Events</th></tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/imersao-dev-google-gemini">Imersão Dev Alura com Google Gemini</a></td>
-    <td><a href="https://github.com/udanielnogueira/nlw-pocket-javascript">NLW Pocket JavaScript</a></td>
+    <td><a href="https://github.com/udanielnogueira/nlw-pocket-javascript">Next Level Week Pocket JavaScript</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/udanielnogueira/nlw-journey">NLW Journey</a></td>
+    <td><a href="https://github.com/udanielnogueira/nlw-journey">Next Level Week Journey</a></td>
   </tr>
 </table>
 
