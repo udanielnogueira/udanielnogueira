@@ -2,7 +2,7 @@
 
 ## About me
 
-- Front-End Dev & UI Designer
+- Front-End Dev & Data Ethusiast
 - Graduate in Systems Development
 - Postgraduate in Full-Stack Development
 
