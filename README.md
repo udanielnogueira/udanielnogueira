@@ -98,6 +98,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/udanielnogueira/nlw-journey">Next Level Week Journey</a></td>
+    <td></td>
   </tr>
 </table>
 
